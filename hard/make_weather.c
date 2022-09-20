@@ -12,7 +12,7 @@ int getRandomNumber(int min, int max) {
 int main(void) {
     // The best developer is the lazy developer
     // No one wants to create that huge matrix of dates and temperatures from
-    // the last challenge. So your new challenge is to write some code that
+    // medium/weather.c challenge. So your new challenge is to write some code that
     // will print that matrix for you using random numbers.
 
     // Extra points for a bit o realism.
